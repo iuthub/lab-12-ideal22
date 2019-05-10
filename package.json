@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap4-website",
+  "version": "1.0.0",
+  "description": "![preview](src/images/scroll-eff.gif)",
+  "private": true,
+  "scripts": {
+    "build": "webpack" ,
+    "start": "webpack-dev-server --open"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iuthub/lab-12-dadakhon09.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iuthub/lab-12-dadakhon09/issues"
+  },
+  "homepage": "https://github.com/iuthub/lab-12-dadakhon09#readme",
+  "devDependencies": {
+    "webpack-dev-server": "^3.3.1"
+  }
+}
